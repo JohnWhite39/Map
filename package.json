@@ -1,0 +1,14 @@
+{
+    "name": "error-repository",
+    "version": "1.0.0",
+    "description": "Centralized error handling",
+    "main": "error_repository.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "chai": "5.1.1",
+        "mocha": "10.7.3"
+    }
+}
